@@ -1,0 +1,63 @@
+<!-- Our Awards & Recognition Section Start -->
+    <div class="our-certifications-metal bg-section">
+      <div class="container">
+        <div class="row">
+          <!-- LEFT IMAGE SIDE -->
+          <div class="col-xl-5">
+            <div class="our-certification-image-box-metal wow fadeInUp">
+              <div class="our-certification-image-metal">
+                <figure class="image-anime">
+                  <img
+                    style="object-fit: contain;"
+                    src="images/founder.png"
+                    alt="Mrs. Sunita Sharma, Principal"
+                  />
+                </figure>
+              </div>
+            </div>
+          </div>
+
+          <!-- RIGHT CONTENT SIDE -->
+          <div class="col-xl-7">
+            <div class="our-certification-content-metal">
+              <div class="section-title">
+                <h3 class="wow fadeInUp">
+                  The Leader of Meritorious School LAPS
+                </h3>
+
+                <h2 class="text-anime-style-3">
+                  Mrs. Sunita Sharma, Principal
+                </h2>
+              </div>
+
+              <div class="our-certification-body-metal">
+                <div class="award-item-list-metal wow fadeInUp">
+                  <div class="award-item-metal">
+                    <div class="award-item-content-metal">
+                      <ul>
+                        <li>
+                          Gold Medalist in B.A. (1997) from MDS University, Ajmer.
+                        </li>
+                        <li>NET</li>
+                        <li>प्रतिष्ठित ‘भामाशाह अवार्ड’ के लिए चयनित</li>
+                        <li>
+                          राज्य स्तर पर ‘सफल प्रिंसिपल’ अवार्ड से सम्मानित एकमात्र
+                          स्कूल संचालिका
+                        </li>
+                        <li>‘महिला शक्ति सम्मान’ से सम्मानित</li>
+                        <li>
+                          (कोरोना काल में उच्च स्तरीय Online Education का सफल
+                          प्रबंधन करने के लिये)
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
