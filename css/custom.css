@@ -320,7 +320,7 @@ a:focus {
   width: 40px;
   height: 40px;
   background-color: var(--primary-color);
-  background-image: url("../images/arrow-white.svg");
+  background-image: url("https://lapssadulpur.netlify.app/images/arrow-white.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 18px auto;
@@ -331,7 +331,7 @@ a:focus {
 
 .btn-default:hover::before {
   background-color: var(--white-color);
-  background-image: url("../images/arrow-primary.svg");
+  background-image: url("https://lapssadulpur.netlify.app/images/arrow-primary.svg");
 }
 
 .btn-default::after {
@@ -363,7 +363,7 @@ a:focus {
 
 .btn-default.btn-highlighted:hover::before {
   background-color: var(--primary-color);
-  background-image: url("../images/arrow-white.svg");
+  background-image: url("https://lapssadulpur.netlify.app/images/arrow-white.svg");
 }
 
 .readmore-btn {
@@ -387,7 +387,7 @@ a:focus {
   width: 24px;
   background-color: var(--accent-color);
   border-radius: 100px;
-  background-image: url("../images/arrow-primary.svg");
+  background-image: url("https://lapssadulpur.netlify.app/images/arrow-primary.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 12px auto;
@@ -471,7 +471,7 @@ a:focus {
 
 .dark-section {
   background-color: var(--primary-color);
-  background-image: url("../images/dark-section-bg-image.png");
+  background-image: url("https://lapssadulpur.netlify.app/images/dark-section-bg-image.png");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -935,7 +935,7 @@ header.main-header .header-sticky.active {
 
 .hero {
   position: relative;
-  background-image: url("../images/hero-bg-image.jpg");
+  background-image: url("https://lapssadulpur.netlify.app/images/hero-bg-image.jpg");
   padding: 190px 0 80px;
   margin-top: 20px;
   overflow: hidden;
@@ -960,7 +960,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   bottom: -85px;
   right: -200px;
-  background-image: url("../images/hero-car-image.png");
+  background-image: url("https://lapssadulpur.netlify.app/images/hero-car-image.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1481,7 +1481,7 @@ header.main-header .header-sticky.active {
 
 .about-info-item.box-2 {
   background: var(--primary-color);
-  background-image: url("../images/about-us-item-bg-image.png");
+  background-image: url("https://lapssadulpur.netlify.app/images/about-us-item-bg-image.png");
   background-repeat: no-repeat;
   background-position: top right;
   background-size: auto;
@@ -1686,7 +1686,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  background: url("../images/section-bg-corner-image-1.png") no-repeat;
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-1.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 62px;
@@ -1699,7 +1699,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: -20px;
   bottom: -20px;
-  background: url("../images/section-bg-corner-image-2.png") no-repeat;
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-2.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 140px;
@@ -2121,7 +2121,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: -20px;
   bottom: -20px;
-  background: url("../images/section-bg-corner-image-2.png") no-repeat;
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-2.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 140px;
@@ -2133,7 +2133,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  background: url("../images/section-bg-corner-image-3.png") no-repeat;
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-3.png") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 62px;
@@ -2152,7 +2152,7 @@ header.main-header .header-sticky.active {
 
 .how-it-work-item-list {
   padding: 0 calc(((100vw - 1500px) / 2) - 5px);
-  background: url("../images/how-work-bg-image.png") no-repeat;
+  background: url("https://lapssadulpur.netlify.app/images/how-work-bg-image.png") no-repeat;
   background-position: center center;
   background-size: 100% auto;
 }
@@ -2707,7 +2707,7 @@ header.main-header .header-sticky.active {
 .our-testimonials {
   position: relative;
   padding: 100px 0;
-  background-image: url("../images/testimonial-bg-image.png");
+  background-image: url("https://lapssadulpur.netlify.app/images/testimonial-bg-image.png");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center center;
@@ -3034,7 +3034,7 @@ header.main-header .header-sticky.active {
 
 .cta-box {
   position: relative;
-  background-image: url("../images/cta-box-bg-image.jpg");
+  background-image: url("https://lapssadulpur.netlify.app/images/cta-box-bg-image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -3441,7 +3441,7 @@ header.main-header .header-sticky.active {
 
 .page-header {
   position: relative;
-  background-image: url("../images/page-header-bg.jpg");
+  background-image: url("https://lapssadulpur.netlify.app/images/page-header-bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4098,7 +4098,7 @@ header.main-header .header-sticky.active {
   top: 50%;
   transform: translateY(-50%);
   right: 0;
-  background: url("../images/arrow-accent.svg") no-repeat;
+  background: url("https://lapssadulpur.netlify.app/images/arrow-accent.svg") no-repeat;
   background-position: center center;
   background-size: cover;
   width: 18px;
@@ -4200,7 +4200,7 @@ header.main-header .header-sticky.active {
 
 .sidebar-cta-btn .btn-default::before {
   background-color: var(--accent-color);
-  background-image: url("../images/arrow-primary.svg");
+  background-image: url("https://lapssadulpur.netlify.app/images/arrow-primary.svg");
 }
 
 .sidebar-cta-btn .btn-default:hover {
@@ -4669,7 +4669,7 @@ header.main-header .header-sticky.active {
 }
 
 .post-entry blockquote {
-  background: var(--secondary-color) url("../images/icon-blockquote.svg");
+  background: var(--secondary-color) url("https://lapssadulpur.netlify.app/images/icon-blockquote.svg");
   background-repeat: no-repeat;
   background-position: 30px 30px;
   background-size: 45px;
@@ -7299,7 +7299,7 @@ header.main-header .header-sticky.active {
 
 .hero-stone {
   position: relative;
-  background-image: url("../images/hero-bg-stone.jpg");
+  background-image: url("https://lapssadulpur.netlify.app/images/hero-bg-stone.jpg");
   min-height: 1060px;
   padding: 140px 0 50px;
   align-content: end;
@@ -7611,7 +7611,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: -20px;
   bottom: -20px;
-  background: url("../images/section-bg-corner-image-2.png");
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -7624,7 +7624,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  background: url("../images/section-bg-corner-image-1.png");
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -7867,7 +7867,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: 20px;
   bottom: -20px;
-  background: url("../images/section-bg-corner-image-4.png");
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-4.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -7880,7 +7880,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  background: url("../images/section-bg-corner-image-3.png");
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-3.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -7916,8 +7916,8 @@ header.main-header .header-sticky.active {
   position: absolute;
   right: -1px;
   bottom: -1px;
-  mask: url("../images/box-bg-shape-img.svg");
-  -webkit-mask: url("../images/box-bg-shape-img.svg");
+  mask: url("https://lapssadulpur.netlify.app/images/box-bg-shape-img.svg");
+  -webkit-mask: url("https://lapssadulpur.netlify.app/images/box-bg-shape-img.svg");
   background-color: var(--primary-color);
   mask-repeat: no-repeat;
   mask-position: right bottom;
@@ -8551,7 +8551,7 @@ header.main-header .header-sticky.active {
 
 .book-appointment-stone {
   position: relative;
-  background-image: url("../images/book-appointment-bg-stone.jpg");
+  background-image: url("https://lapssadulpur.netlify.app/images/book-appointment-bg-stone.jpg");
   padding: 100px 0;
   overflow: hidden;
 }
@@ -8759,7 +8759,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  background: url("../images/section-bg-corner-image-1.png");
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -8772,7 +8772,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: 0;
   bottom: 0;
-  background: url("../images/section-bg-corner-image-5.png");
+  background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-5.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -10810,43 +10810,43 @@ header.main-header .header-sticky.active {
 
 @media (max-width: 767px) {
   .hero-metal-swiper .swiper-slide:nth-child(1) .hero-slide-metal {
-    background-image: url("../images/mobile1.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile1.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(2) .hero-slide-metal {
-    background-image: url("../images/mobile2.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile2.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(3) .hero-slide-metal {
-    background-image: url("../images/mobile3.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile3.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(4) .hero-slide-metal {
-    background-image: url("../images/mobile4.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile4.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(5) .hero-slide-metal {
-    background-image: url("../images/mobile5.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile5.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(6) .hero-slide-metal {
-    background-image: url("../images/mobile6.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile6.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(7) .hero-slide-metal {
-    background-image: url("../images/mobile7.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile7.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(8) .hero-slide-metal {
-    background-image: url("../images/mobile8.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile8.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(9) .hero-slide-metal {
-    background-image: url("../images/mobile9.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile9.png") !important;
   }
 
   .hero-metal-swiper .swiper-slide:nth-child(10) .hero-slide-metal {
-    background-image: url("../images/mobile10.png") !important;
+    background-image: url("https://lapssadulpur.netlify.app/images/mobile10.png") !important;
   }
 
   .hero-mobile-heading {
@@ -10980,8 +10980,8 @@ header.main-header .header-sticky.active {
   bottom: 0;
   width: 20px;
   height: 20px;
-  mask: url("../images/image-corner-bg-shape.svg");
-  -webkit-mask: url("../images/image-corner-bg-shape.svg");
+  mask: url("https://lapssadulpur.netlify.app/images/image-corner-bg-shape.svg");
+  -webkit-mask: url("https://lapssadulpur.netlify.app/images/image-corner-bg-shape.svg");
   background-color: var(--white-color);
   mask-repeat: no-repeat;
   mask-size: cover;
@@ -11440,7 +11440,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: -20px;
   bottom: -20px;
-  /* background: url("../images/section-bg-corner-image-2.png"); */
+  /* background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-2.png"); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -11453,7 +11453,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  /* background: url("../images/section-bg-corner-image-1.png"); */
+  /* background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-1.png"); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -11865,7 +11865,7 @@ header.main-header .header-sticky.active {
 .our-pricing-metal {
   position: relative;
   padding: 100px 0;
-  /* background-image: url("../images/pricing-bg-image-metal.png"); */
+  /* background-image: url("https://lapssadulpur.netlify.app/images/pricing-bg-image-metal.png"); */
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center center;
@@ -11877,7 +11877,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: -20px;
   bottom: -20px;
-  /* background: url("../images/section-bg-corner-image-2.png") no-repeat; */
+  /* background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-2.png") no-repeat; */
   background-position: center center;
   background-size: cover;
   width: 140px;
@@ -11889,7 +11889,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  /* background: url("../images/section-bg-corner-image-1.png") no-repeat; */
+  /* background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-1.png") no-repeat; */
   background-position: center center;
   background-size: cover;
   width: 62px;
@@ -12237,7 +12237,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   left: -20px;
   bottom: -20px;
-  /* background: url("../images/section-bg-corner-image-2.png") no-repeat; */
+  /* background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-2.png") no-repeat; */
   background-position: center center;
   background-size: cover;
   width: 140px;
@@ -12249,7 +12249,7 @@ header.main-header .header-sticky.active {
   position: absolute;
   top: 0;
   right: 40px;
-  /* background: url("../images/section-bg-corner-image-1.png") no-repeat; */
+  /* background: url("https://lapssadulpur.netlify.app/images/section-bg-corner-image-1.png") no-repeat; */
   background-position: center center;
   background-size: cover;
   width: 62px;
@@ -12723,7 +12723,7 @@ header.main-header .header-sticky.active {
 
 .what-we-do-metal {
   position: relative;
-  background-image: url("../images/bg.jpg");
+  background-image: url("https://lapssadulpur.netlify.app/images/bg.jpg");
   padding: 100px 0;
   overflow: hidden;
 }
