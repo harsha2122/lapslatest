@@ -707,6 +707,10 @@ header.main-header .header-sticky.active {
   border-radius: 999px;
 }
 
+.mobile-contact-panel {
+  display: none;
+}
+
 .nav-right-contact a {
   color: var(--white-color);
 }
@@ -6075,6 +6079,8 @@ header.main-header .header-sticky.active {
 
   header.main-header {
     top: 0px;
+    position: relative;
+    width: 100%;
   }
 
   header.main-header .header-sticky.active {
@@ -6106,6 +6112,35 @@ header.main-header .header-sticky.active {
   .header-school-name span:last-child {
     font-size: clamp(11px, 2.9vw, 14px);
     line-height: 1.25;
+  }
+
+  header.main-header .mobile-contact-panel {
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 32px;
+    margin: 0;
+    padding: 3px 10px;
+    justify-content: center;
+    gap: clamp(8px, 3vw, 14px);
+    border-radius: 0 0 9px 9px;
+  }
+
+  header.main-header .mobile-contact-panel .nav-contact-number {
+    gap: 5px;
+    font-size: 11px;
+    white-space: nowrap;
+  }
+
+  header.main-header .mobile-contact-panel .nav-contact-icon,
+  header.main-header .mobile-contact-panel .nav-contact-social a {
+    width: 23px;
+    height: 23px;
+    font-size: 11px;
+  }
+
+  header.main-header .mobile-contact-panel .nav-contact-social {
+    gap: 6px;
   }
 
   .responsive-menu,
@@ -10758,7 +10793,7 @@ header.main-header .header-sticky.active {
   }
 
   .hero-slide-metal {
-    padding: 80px 0 40px 0;
+    padding: 0;
     align-items: center;
     justify-content: flex-start;
     background-size: contain;
@@ -10797,7 +10832,7 @@ header.main-header .header-sticky.active {
   }
 
   .school-strip-metal {
-    padding-top: 12px;
+    padding: 12px 0 0;
     position: relative;
     z-index: 2;
   }
@@ -10845,6 +10880,99 @@ header.main-header .header-sticky.active {
   .hero-mobile-wave svg path {
     fill: var(--strip-bg);
   }
+}
+
+@media (max-width: 767px) {
+  header.main-header,
+  header.main-header .header-sticky,
+  header.main-header .navbar {
+    background: #55010a;
+  }
+
+  header.main-header {
+    border-top: 4px solid #2d2d2d;
+  }
+
+  header.main-header .header-sticky {
+    border-bottom: 0;
+  }
+
+  header.main-header .header-sticky:not(.active) .navbar {
+    background: #55010a;
+    border: 0;
+    box-shadow: none;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+
+  header.main-header .header-school-name {
+    color: #fff;
+  }
+
+  header.main-header .mobile-contact-panel {
+    background: #e31818;
+  }
+
+  .hero-school-sync,
+  .school-strip-metal,
+  .hero-metal {
+    background-color: #55010a;
+  }
+
+  .school-strip-image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 42px;
+    z-index: 1;
+    background: linear-gradient(to bottom, #55010a 0%, rgba(143, 190, 211, 0.65) 55%, transparent 100%);
+    filter: blur(9px);
+    pointer-events: none;
+  }
+
+  .school-strip-tags.primary-tags span {
+    background: #70000c;
+    color: #fff;
+  }
+
+  .school-strip-inner,
+  .school-strip-inner h2,
+  .school-strip-inner .school-strip-tagline {
+    color: #fff;
+  }
+
+  .hero-school-sync {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero-school-sync > .school-strip-metal { order: 1; }
+  .hero-school-sync > .hero-metal {
+    order: 2;
+  }
+
+  .hero-school-sync > .hero-mobile-wave {
+    order: 3;
+    position: relative;
+    inset: auto;
+    transform: none;
+  }
+
+  .hero-school-sync > .hero-strip-divider { order: 4; }
+
+  .school-strip-inner {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .school-strip-image { order: 1; }
+  .school-strip-inner > h2 { order: 2; }
+  .school-strip-inner > .school-strip-tagline { order: 3; }
+  .school-strip-inner > .school-strip-divider { order: 4; }
+  .school-strip-inner > .primary-tags { order: 5; }
+  .school-strip-inner > .primary-tags { margin-bottom: 0 !important; }
 }
 
 .hero-mobile-heading {
@@ -10927,15 +11055,15 @@ header.main-header .header-sticky.active {
 
 @media (max-width: 991px) {
   .hero-metal-pagination {
-    --swiper-pagination-bottom: 50px;
-    bottom: 50px !important;
+    --swiper-pagination-bottom: 0px;
+    bottom: 0px !important;
   }
 }
 
 @media (max-width: 767px) {
   .hero-metal-pagination {
-    --swiper-pagination-bottom: 60px;
-    bottom: 60px !important;
+    --swiper-pagination-bottom: 0px;
+    bottom: 0px !important;
   }
 }
 
@@ -13339,7 +13467,7 @@ header.main-header .header-sticky.active {
 @media only screen and (max-width: 991px) {
   .hero-metal {
     margin-top: 0;
-    padding-top: 110px;
+    padding-top: 30px;
   }
 
   .hero-info-item {
